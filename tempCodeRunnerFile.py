@@ -1,0 +1,1 @@
+if (x in corner) or (y in corner):
