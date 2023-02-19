@@ -122,6 +122,10 @@ It looks like we will soon have more rabbits!"""
 
 animals = [camel, lion, deer, goose, bat, rabbit]
 
+print('''We have a bunch of animals
+      camel, lion, deer, goose, bat, rabbit
+      enter the no which you would like to see''')
+
 while True:
    user_input = input()
 
